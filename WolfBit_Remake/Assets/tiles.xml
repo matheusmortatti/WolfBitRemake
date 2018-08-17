@@ -1,0 +1,8 @@
+<set>
+  <tiles>
+<tile name="Assets/Prefabs/ground" symmetry="X" weight="1.0"/>
+	</tiles>
+<neighbors>  <neighbor left="Assets/Prefabs/ground 0" right="Assets/Prefabs/ground 0"/>
+  <neighbor left="Assets/Prefabs/ground 1" right="Assets/Prefabs/ground 1"/>
+	</neighbors>
+</set>
